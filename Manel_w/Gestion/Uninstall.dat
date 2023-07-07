@@ -1,0 +1,3248 @@
+{
+  "GeneralInformation": {
+      "InstallationPath"  : "C:\\Program Files (x86)\\Manel_w\\Gestion\\",
+      "ApplicationVersion": "1.0",
+      "ApplicationName"   : "Gestion"
+    },
+  "Folders"           : [
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\fonts\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\fonts\\Roboto\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\icons\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\themes\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\Medoc\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\PIL\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\setuptools-65.5.0.dist-info\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\static\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\static\\image\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\http1.0\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\opt0.4\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indiana\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Kentucky\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\North_Dakota\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Arctic\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Brazil\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Chile\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Mexico\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\8.4\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\8.4\\platform\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\8.5\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\8.6\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\"
+      }
+    ],
+  "Files"             : [
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\Uninstall.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\Gestion.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\base_library.zip"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\libcrypto-1_1.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\libssl-1_1.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl86t.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk86t.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\VCRUNTIME140.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\libffi-8.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\pyexpat.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\python311.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\sqlite3.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\unicodedata.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_asyncio.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_bz2.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_ctypes.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_decimal.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_hashlib.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_lzma.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_overlapped.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_socket.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_sqlite3.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_ssl.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_tkinter.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\select.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_multiprocessing.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\_queue.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\ucrtbase.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-utility-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-time-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-string-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-stdio-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-runtime-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-process-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-math-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-locale-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-heap-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-filesystem-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-environment-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-convert-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-crt-conio-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-util-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-timezone-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-sysinfo-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-synch-l1-2-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-synch-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-string-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-rtlsupport-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-profile-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-processthreads-l1-1-1.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-processthreads-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-processenvironment-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-namedpipe-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-memory-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-localization-l1-2-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-libraryloader-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-interlocked-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-heap-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-handle-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-file-l2-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-file-l1-2-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-file-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-errorhandling-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-console-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-datetime-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\api-ms-win-core-debug-l1-1-0.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\.DS_Store"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\fonts\\CustomTkinter_shapes_font.otf"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\fonts\\Roboto\\Roboto-Medium.ttf"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\fonts\\Roboto\\Roboto-Regular.ttf"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\icons\\.DS_Store"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\icons\\CustomTkinter_icon_Windows.ico"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\themes\\blue.json"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\themes\\dark-blue.json"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\customtkinter\\assets\\themes\\green.json"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\Medoc\\Medoc.db"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\PIL\\_imaging.cp311-win_amd64.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\PIL\\_imagingcms.cp311-win_amd64.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\PIL\\_imagingtk.cp311-win_amd64.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\PIL\\_webp.cp311-win_amd64.pyd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\setuptools-65.5.0.dist-info\\entry_points.txt"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\setuptools-65.5.0.dist-info\\INSTALLER"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\setuptools-65.5.0.dist-info\\LICENSE"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\setuptools-65.5.0.dist-info\\METADATA"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\setuptools-65.5.0.dist-info\\RECORD"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\setuptools-65.5.0.dist-info\\top_level.txt"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\setuptools-65.5.0.dist-info\\WHEEL"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\static\\image\\medicine.ico"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\static\\image\\medicine.png"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\auto.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\clock.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\ascii.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\big5.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cns11643.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp1250.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp1251.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp1252.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp1253.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp1254.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp1255.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp1256.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp1257.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp1258.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp437.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp737.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp775.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp850.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp852.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp855.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp857.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp860.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp861.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp862.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp863.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp864.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp865.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp866.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp869.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp874.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp932.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp936.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp949.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\cp950.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\dingbats.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\ebcdic.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\euc-cn.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\euc-jp.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\euc-kr.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\gb12345.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\gb1988.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\gb2312-raw.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\gb2312.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso2022-jp.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso2022-kr.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso2022.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-1.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-10.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-11.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-13.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-14.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-15.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-16.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-2.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-3.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-4.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-5.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-6.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-7.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-8.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\iso8859-9.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\jis0201.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\jis0208.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\jis0212.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\koi8-r.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\koi8-u.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\ksc5601.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macCentEuro.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macCroatian.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macCyrillic.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macDingbats.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macGreek.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macIceland.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macJapan.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macRoman.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macRomania.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macThai.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macTurkish.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\macUkraine.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\shiftjis.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\symbol.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\encoding\\tis-620.enc"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\history.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\http1.0\\http.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\http1.0\\pkgIndex.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\init.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\af.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\af_za.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ar.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ar_in.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ar_jo.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ar_lb.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ar_sy.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\be.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\bg.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\bn.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\bn_in.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ca.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\cs.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\da.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\de.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\de_at.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\de_be.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\el.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_au.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_be.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_bw.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_ca.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_gb.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_hk.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_ie.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_in.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_nz.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_ph.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_sg.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_za.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\en_zw.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\eo.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_ar.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_bo.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_cl.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_co.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_cr.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_do.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_ec.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_gt.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_hn.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_mx.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_ni.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_pa.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_pe.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_pr.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_py.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_sv.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_uy.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\es_ve.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\et.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\eu.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\eu_es.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fa.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fa_in.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fa_ir.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fi.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fo.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fo_fo.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fr.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fr_be.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fr_ca.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\fr_ch.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ga.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ga_ie.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\gl.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\gl_es.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\gv.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\gv_gb.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\he.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\hi.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\hi_in.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\hr.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\hu.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\id.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\id_id.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\is.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\it.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\it_ch.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ja.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\kl.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\kl_gl.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ko.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\kok.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\kok_in.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ko_kr.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\kw.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\kw_gb.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\lt.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\lv.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\mk.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\mr.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\mr_in.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ms.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ms_my.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\mt.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\nb.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\nl.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\nl_be.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\nn.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\pl.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\pt.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\pt_br.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ro.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ru.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ru_ua.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\sh.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\sk.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\sl.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\sq.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\sr.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\sv.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\sw.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ta.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\ta_in.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\te.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\te_in.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\th.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\tr.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\uk.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\vi.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\zh.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\zh_cn.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\zh_hk.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\zh_sg.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\msgs\\zh_tw.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\opt0.4\\optparse.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\opt0.4\\pkgIndex.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\package.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\parray.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\safe.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tclIndex"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tm.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Abidjan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Accra"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Addis_Ababa"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Algiers"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Asmara"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Asmera"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Bamako"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Bangui"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Banjul"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Bissau"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Blantyre"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Brazzaville"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Bujumbura"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Cairo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Casablanca"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Ceuta"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Conakry"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Dakar"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Dar_es_Salaam"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Djibouti"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Douala"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\El_Aaiun"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Freetown"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Gaborone"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Harare"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Johannesburg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Juba"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Kampala"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Khartoum"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Kigali"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Kinshasa"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Lagos"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Libreville"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Lome"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Luanda"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Lubumbashi"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Lusaka"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Malabo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Maputo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Maseru"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Mbabane"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Mogadishu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Monrovia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Nairobi"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Ndjamena"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Niamey"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Nouakchott"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Ouagadougou"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Porto-Novo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Sao_Tome"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Timbuktu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Tripoli"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Tunis"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Africa\\Windhoek"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Adak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Anchorage"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Anguilla"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Antigua"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Araguaina"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\Buenos_Aires"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\Catamarca"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\ComodRivadavia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\Cordoba"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\Jujuy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\La_Rioja"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\Mendoza"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\Rio_Gallegos"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\Salta"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\San_Juan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\San_Luis"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\Tucuman"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Argentina\\Ushuaia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Aruba"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Asuncion"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Atikokan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Atka"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Bahia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Bahia_Banderas"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Barbados"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Belem"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Belize"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Blanc-Sablon"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Boa_Vista"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Bogota"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Boise"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Buenos_Aires"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Cambridge_Bay"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Campo_Grande"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Cancun"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Caracas"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Catamarca"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Cayenne"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Cayman"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Chicago"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Chihuahua"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Coral_Harbour"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Cordoba"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Costa_Rica"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Creston"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Cuiaba"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Curacao"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Danmarkshavn"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Dawson"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Dawson_Creek"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Denver"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Detroit"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Dominica"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Edmonton"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Eirunepe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\El_Salvador"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Ensenada"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Fortaleza"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Fort_Nelson"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Fort_Wayne"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Glace_Bay"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Godthab"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Goose_Bay"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Grand_Turk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Grenada"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Guadeloupe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Guatemala"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Guayaquil"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Guyana"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Halifax"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Havana"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Hermosillo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indiana\\Indianapolis"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indiana\\Knox"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indiana\\Marengo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indiana\\Petersburg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indiana\\Tell_City"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indiana\\Vevay"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indiana\\Vincennes"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indiana\\Winamac"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Indianapolis"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Inuvik"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Iqaluit"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Jamaica"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Jujuy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Juneau"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Kentucky\\Louisville"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Kentucky\\Monticello"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Knox_IN"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Kralendijk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\La_Paz"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Lima"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Los_Angeles"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Louisville"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Lower_Princes"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Maceio"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Managua"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Manaus"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Marigot"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Martinique"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Matamoros"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Mazatlan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Mendoza"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Menominee"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Merida"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Metlakatla"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Mexico_City"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Miquelon"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Moncton"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Monterrey"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Montevideo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Montreal"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Montserrat"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Nassau"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\New_York"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Nipigon"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Nome"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Noronha"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\North_Dakota\\Beulah"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\North_Dakota\\Center"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\North_Dakota\\New_Salem"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Nuuk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Ojinaga"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Panama"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Pangnirtung"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Paramaribo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Phoenix"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Port-au-Prince"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Porto_Acre"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Porto_Velho"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Port_of_Spain"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Puerto_Rico"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Punta_Arenas"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Rainy_River"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Rankin_Inlet"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Recife"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Regina"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Resolute"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Rio_Branco"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Rosario"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Santarem"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Santa_Isabel"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Santiago"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Santo_Domingo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Sao_Paulo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Scoresbysund"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Shiprock"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Sitka"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\St_Barthelemy"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\St_Johns"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\St_Kitts"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\St_Lucia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\St_Thomas"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\St_Vincent"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Swift_Current"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Tegucigalpa"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Thule"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Thunder_Bay"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Tijuana"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Toronto"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Tortola"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Vancouver"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Virgin"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Whitehorse"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Winnipeg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Yakutat"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\America\\Yellowknife"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\Casey"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\Davis"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\DumontDUrville"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\Macquarie"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\Mawson"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\McMurdo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\Palmer"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\Rothera"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\South_Pole"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\Syowa"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\Troll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Antarctica\\Vostok"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Arctic\\Longyearbyen"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Aden"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Almaty"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Amman"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Anadyr"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Aqtau"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Aqtobe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Ashgabat"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Ashkhabad"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Atyrau"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Baghdad"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Bahrain"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Baku"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Bangkok"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Barnaul"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Beirut"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Bishkek"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Brunei"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Calcutta"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Chita"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Choibalsan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Chongqing"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Chungking"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Colombo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Dacca"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Damascus"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Dhaka"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Dili"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Dubai"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Dushanbe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Famagusta"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Gaza"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Harbin"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Hebron"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Hong_Kong"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Hovd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Ho_Chi_Minh"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Irkutsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Istanbul"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Jakarta"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Jayapura"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Jerusalem"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Kabul"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Kamchatka"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Karachi"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Kashgar"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Kathmandu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Katmandu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Khandyga"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Kolkata"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Krasnoyarsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Kuala_Lumpur"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Kuching"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Kuwait"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Macao"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Macau"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Magadan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Makassar"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Manila"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Muscat"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Nicosia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Novokuznetsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Novosibirsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Omsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Oral"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Phnom_Penh"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Pontianak"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Pyongyang"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Qatar"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Qostanay"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Qyzylorda"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Rangoon"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Riyadh"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Saigon"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Sakhalin"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Samarkand"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Seoul"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Shanghai"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Singapore"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Srednekolymsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Taipei"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Tashkent"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Tbilisi"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Tehran"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Tel_Aviv"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Thimbu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Thimphu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Tokyo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Tomsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Ujung_Pandang"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Ulaanbaatar"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Ulan_Bator"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Urumqi"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Ust-Nera"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Vientiane"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Vladivostok"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Yakutsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Yangon"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Yekaterinburg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Asia\\Yerevan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Azores"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Bermuda"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Canary"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Cape_Verde"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Faeroe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Faroe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Jan_Mayen"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Madeira"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Reykjavik"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\South_Georgia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\Stanley"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Atlantic\\St_Helena"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\ACT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Adelaide"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Brisbane"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Broken_Hill"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Canberra"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Currie"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Darwin"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Eucla"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Hobart"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\LHI"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Lindeman"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Lord_Howe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Melbourne"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\North"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\NSW"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Perth"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Queensland"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\South"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Sydney"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Tasmania"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Victoria"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\West"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Australia\\Yancowinna"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Brazil\\Acre"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Brazil\\DeNoronha"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Brazil\\East"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Brazil\\West"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\Atlantic"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\Central"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\East-Saskatchewan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\Eastern"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\Mountain"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\Newfoundland"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\Pacific"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\Saskatchewan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Canada\\Yukon"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\CET"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Chile\\Continental"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Chile\\EasterIsland"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\CST6CDT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Cuba"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\EET"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Egypt"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Eire"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\EST"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\EST5EDT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+0"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+1"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+10"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+11"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+12"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+2"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+3"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+4"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+5"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+6"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+7"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+8"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT+9"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-0"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-1"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-10"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-11"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-12"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-13"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-14"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-2"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-3"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-4"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-5"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-6"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-7"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-8"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT-9"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\GMT0"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\Greenwich"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\UCT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\Universal"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\UTC"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Etc\\Zulu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Amsterdam"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Andorra"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Astrakhan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Athens"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Belfast"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Belgrade"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Berlin"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Bratislava"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Brussels"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Bucharest"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Budapest"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Busingen"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Chisinau"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Copenhagen"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Dublin"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Gibraltar"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Guernsey"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Helsinki"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Isle_of_Man"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Istanbul"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Jersey"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Kaliningrad"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Kiev"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Kirov"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Lisbon"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Ljubljana"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\London"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Luxembourg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Madrid"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Malta"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Mariehamn"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Minsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Monaco"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Moscow"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Nicosia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Oslo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Paris"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Podgorica"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Prague"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Riga"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Rome"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Samara"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\San_Marino"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Sarajevo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Saratov"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Simferopol"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Skopje"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Sofia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Stockholm"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Tallinn"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Tirane"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Tiraspol"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Ulyanovsk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Uzhgorod"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Vaduz"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Vatican"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Vienna"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Vilnius"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Volgograd"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Warsaw"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Zagreb"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Zaporozhye"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Europe\\Zurich"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\GB"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\GB-Eire"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\GMT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\GMT+0"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\GMT-0"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\GMT0"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Greenwich"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Hongkong"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\HST"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Iceland"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Antananarivo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Chagos"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Christmas"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Cocos"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Comoro"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Kerguelen"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Mahe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Maldives"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Mauritius"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Mayotte"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Indian\\Reunion"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Iran"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Israel"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Jamaica"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Japan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Kwajalein"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Libya"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\MET"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Mexico\\BajaNorte"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Mexico\\BajaSur"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Mexico\\General"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\MST"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\MST7MDT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Navajo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\NZ"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\NZ-CHAT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Apia"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Auckland"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Bougainville"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Chatham"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Chuuk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Easter"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Efate"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Enderbury"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Fakaofo"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Fiji"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Funafuti"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Galapagos"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Gambier"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Guadalcanal"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Guam"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Honolulu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Johnston"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Kanton"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Kiritimati"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Kosrae"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Kwajalein"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Majuro"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Marquesas"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Midway"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Nauru"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Niue"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Norfolk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Noumea"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Pago_Pago"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Palau"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Pitcairn"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Pohnpei"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Ponape"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Port_Moresby"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Rarotonga"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Saipan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Samoa"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Tahiti"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Tarawa"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Tongatapu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Truk"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Wake"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Wallis"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Pacific\\Yap"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Poland"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Portugal"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\PRC"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\PST8PDT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\ROC"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\ROK"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Singapore"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\AST4"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\AST4ADT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\CST6"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\CST6CDT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\EST5"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\EST5EDT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\HST10"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\MST7"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\MST7MDT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\PST8"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\PST8PDT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\YST9"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\SystemV\\YST9YDT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Turkey"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\UCT"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Universal"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Alaska"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Aleutian"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Arizona"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Central"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\East-Indiana"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Eastern"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Hawaii"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Indiana-Starke"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Michigan"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Mountain"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Pacific"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Pacific-New"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\US\\Samoa"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\UTC"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\W-SU"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\WET"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\tzdata\\Zulu"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl\\word.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\8.4\\platform\\shell-1.1.4.tm"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\8.4\\platform-1.0.18.tm"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\8.5\\msgcat-1.6.1.tm"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\8.5\\tcltest-2.5.3.tm"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tcl8\\8.6\\http-2.9.5.tm"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\bgerror.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\button.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\choosedir.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\clrpick.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\comdlg.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\console.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\dialog.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\entry.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\focus.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\fontchooser.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\iconlist.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\icons.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\logo.eps"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\logo100.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\logo64.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\logoLarge.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\logoMed.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\pwrdLogo.eps"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\pwrdLogo100.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\pwrdLogo150.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\pwrdLogo175.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\pwrdLogo200.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\pwrdLogo75.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\README"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\images\\tai-ku.gif"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\license.terms"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\listbox.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\megawidget.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\menu.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\mkpsenc.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgbox.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\cs.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\da.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\de.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\el.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\en.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\en_gb.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\eo.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\es.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\fr.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\hu.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\it.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\nl.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\pl.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\pt.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\ru.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\msgs\\sv.msg"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\obsolete.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\optMenu.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\palette.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\panedwindow.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\pkgIndex.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\safetk.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\scale.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\scrlbar.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\spinbox.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\tclIndex"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\tearoff.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\text.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\tk.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\tkfbox.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\altTheme.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\aquaTheme.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\button.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\clamTheme.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\classicTheme.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\combobox.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\cursors.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\defaults.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\entry.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\fonts.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\menubutton.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\notebook.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\panedwindow.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\progress.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\scale.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\scrollbar.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\sizegrip.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\spinbox.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\treeview.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\ttk.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\utils.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\vistaTheme.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\winTheme.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\ttk\\xpTheme.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\unsupported.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\tk\\xmfbox.tcl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\Manel_w\\Gestion\\setuptools-65.5.0.dist-info\\REQUESTED"
+      },
+      {
+        "Path": "C:\\Users\\Public\\Desktop\\Gestion medicament.lnk"
+      }
+    ],
+  "RegistryValues"    : [
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayIcon",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "UninstallString",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallDate",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallLocation",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "EstimatedSize",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoModify",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoRepair",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayName",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayVersion",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "HelpLink",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "Publisher",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Gestion\\"
+      }
+    ]
+}
